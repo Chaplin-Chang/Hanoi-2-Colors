@@ -1,2 +1,3 @@
 # Hanoi-2-Colors
 The basic Hanoi Tower differs only in the size of the plate. There are three sizes of plates in this project, and each size plate has two colors. The two-color and three-color Hanoi Tower can be realized through recursion. However, in some cases, recursive processing is not universal. Spirit pills usually consume a lot of resources, such as stacking themselves, which consumes memory. Therefore, for efficiency, dynamic planning algorithms are carried out to record the best solution of subtasks, avoid repeated calculations of subtasks, and be efficient in solving the problem.
+基本的河內塔，只有盤子大小之別，本專案有三種尺寸盤子，而每種尺寸的盤子有兩種顏色，透過遞迴實現雙色、三色河內塔，然而有些情況下，遞迴處理不是萬靈丹，通常耗費的資源比較多，像是堆疊本身就需耗費記憶體，因此為了效率，進行動態規畫演算法，記錄子任務的最佳解，避免了子任務的重複計算，以有效率地解決問題。
